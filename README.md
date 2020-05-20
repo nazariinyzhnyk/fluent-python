@@ -4,7 +4,11 @@ The book is divided into chapters. Each chapter of a book will be in specific di
 
 ## Requirements
 
-No special requirements yet needed.
+To install required packages run:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## License
 
